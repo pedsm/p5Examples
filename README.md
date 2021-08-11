@@ -11,3 +11,11 @@ This repository contains a list of basic p5.js examples. You can try all of thes
 1. [Painting app](/examples/4_painter.js)
 1. [Moving shapes with keyboards](/examples/5_keyMovement.js)
 1. [Animating a scene](/examples/6_animation.js)
+
+
+## Helpful links
+
+- [p5 website](https://p5js.org/)
+- [p5 reference](https://p5js.org/reference/)
+- [p5 examples](https://p5js.org/examples/)
+- [The coding train YouTube channel (lots of p5 tutorials)](https://www.youtube.com/c/TheCodingTrain/featured)
